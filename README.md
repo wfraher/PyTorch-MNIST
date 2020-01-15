@@ -1,0 +1,2 @@
+# PyTorch-MNIST
+Simple comparison of how a linear model compares against LeNet on the MNIST dataset using PyTorch. I wanted to get started with PyTorch so I figured this would be a good way to do it. Graphs are produced from each model and percent accuracy is given. The linear model achieved 92.63% accuracy whereas the LeNet model achieved 98.44% accuracy. Both models use the SGD optimizer, so these models could easily be improved in various ways.
